@@ -617,7 +617,7 @@
 	margin-left: 330px;
 }
 .p8-3{
-	color: black;
+	color: grey;
 	margin-top: -0.8px;
 }
 .s4{
@@ -625,7 +625,10 @@
 	border:1.5px solid blue;
 }
 .p8-3{
-	color: ;
+	color: grey;
+}
+.p8-13{
+	color: black;
 }
 .p8-4{
 	color: black;
